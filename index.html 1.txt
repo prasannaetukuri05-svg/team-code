@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lifestyle Tips</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #fdf6e3;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffb347;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #ffcc80;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            margin: 10px auto;
+            max-width: 800px;
+            background-color: #fff7f0;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #ff6f61;
+        }
+        ul {
+            list-style: disc;
+            margin-left: 20px;
+        }
+        footer {
+            background-color: #ffb347;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Healthy Lifestyle Tips</h1>
+    </header>
+
+    <nav>
+        <a href="#eat">Healthy Eating</a>
+        <a href="#exercise">Exercise</a>
+        <a href="#sleep">Sleep</a>
+        <a href="#hobbies">Hobbies</a>
+    </nav>
+
+    <section id="eat">
+        <h2>Healthy Eating</h2>
+        <p>Eating a balanced diet is key for a healthy lifestyle:</p>
+        <ul>
+            <li>Include fruits and vegetables daily</li>
+            <li>Choose whole grains over processed grains</li>
+            <li>Drink plenty of water</li>
+            <li>Limit sugar and processed foods</li>
+        </ul>
+    </section>
+
+    <section id="exercise">
+        <h2>Exercise</h2>
+        <p>Regular physical activity keeps your body strong and fit:</p>
+        <ul>
+            <li>30 minutes of walking or jogging daily</li>
+            <li>Strength training 2–3 times a week</li>
+            <li>Stretching or yoga for flexibility</li>
+        </ul>
+    </section>
+
+    <section id="sleep">
+        <h2>Sleep</h2>
+        <p>Good sleep is essential for mental and physical health:</p>
+        <ul>
+            <li>7–9 hours of sleep per night</li>
+            <li>Maintain a consistent sleep schedule</li>
+            <li>Avoid screens before bedtime</li>
+        </ul>
+    </section>
+
+    <section id="hobbies">
+        <h2>Hobbies & Relaxation</h2>
+        <p>Engaging in hobbies reduces stress and improves mood:</p>
+        <ul>
+            <li>Reading books or listening to music</li>
+            <li>Painting, gardening, or crafts</li>
+            <li>Spending time with friends and family</li>
+        </ul>
+    </section>
+
+    <footer>
+        &copy; 2025 Lifestyle Tips by Geethu
+    </footer>
+</body>
+</html>
